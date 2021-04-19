@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Computer Sciencce Capstone - Michael Becker
 
-You can use the [editor on GitHub](https://github.com/beckerm1/beckerm1.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This Github page contains my SNHU Computer Science Capstone project and deliverables. Our goal was to take an existing artifact from a previous course and provide several enhancements. I chose to enhance a Pet Check-In application. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Code Review
 
-### Markdown
+An initial code review was performed on the artifact. The purpose of the code review was to identify the enhancements that could be made to the code. The main enhancements that I planned were: 
+- Porting code over to Python instead of Java
+- Adding Pandas dataframe functionality instead of class management
+- Adding database functionality to store data before closing the application
+- Adding a main function to function as the application. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Software Design
 
-```markdown
-Syntax highlighted code block
+The main enhancement for my software design was porting my code over to Python. To implement this, I took my Java classes and created accompanying pseudocode. Then I coded the application in Python. 
 
-# Header 1
-## Header 2
-### Header 3
+### Algorithms and Data Structure
 
-- Bulleted
-- List
+One addition I had to make was adding a main function to the application. This could then perform the main logic for the application. I also implemented Pandas dataframe structuring to handle my application data and search results. 
 
-1. Numbered
-2. List
+### Databases
 
-**Bold** and _Italic_ and `Code` text
+The final addition was implementing a sqllite database at the end of the application. This allows the data to be stored when the application closes. It takes the dataframe and stores it as a database table. 
 
-[Link](url) and ![Image](src)
-```
+### Repository Contents
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/beckerm1/beckerm1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Code Review Video
+2. Enhancement Narratives
+3. Source Code
+4. Professional Self-Assessment
