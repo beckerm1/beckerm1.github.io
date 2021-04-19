@@ -1,4 +1,4 @@
-## Computer Sciencce Capstone - Michael Becker
+## Computer Science Capstone - Michael Becker
 
 This Github page contains my SNHU Computer Science Capstone project and deliverables. Our goal was to take an existing artifact from a previous course and provide several enhancements. I chose to enhance a Pet Check-In application. 
 
